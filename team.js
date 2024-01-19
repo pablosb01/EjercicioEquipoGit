@@ -21,5 +21,5 @@ let students = [
         favoriteVideoGame:"FIFA",
         favoriteFilm:"Señor de los anillos",
         favoriteBook:"Imperio final",
-        petName: "Lupo"
+        petName: "Lupo",
     }];
