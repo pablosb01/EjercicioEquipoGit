@@ -1,5 +1,4 @@
-let students = [
-    {
+let students = [{
         name: "Daniel",
         surname: "Segalés",
         age: 30,
@@ -10,4 +9,4 @@ let students = [
         favoriteFilm: "Nightmare Before Christmas",
         favoriteBook: "Sisifu's Myth",
         petName: "Dolent",
-    }]
+    }];
