@@ -5,7 +5,7 @@ let estudiantes = [{
     city: "Villamayor",
     hobby: "Ski",
     favoriteFood: "SmashBurger",
-    favoriteVideogame: "Escape From Tarkov",
+    favoriteVideoGame:"LOL",
     favoriteFilm: "Eyes Wide Shut",
     favoriteBook: "El Visitante",
     petName: "Tango",
