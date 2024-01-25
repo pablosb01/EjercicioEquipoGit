@@ -1,7 +1,7 @@
 let students = [{
     name: "Pablo",
     surname: "Diaz",
-    age: "22",
+    age: 22,
     city: "Villamayor",
     hobby: "Ski",
     favoriteFood: "SmashBurger",
@@ -9,6 +9,18 @@ let students = [{
     favoriteFilm: "Eyes Wide Shut",
     favoriteBook: "El Visitante",
     petName: "Tango",
+},
+{
+    name: "Daniel",
+    surname: "Segalés",
+    age: 30,
+    city: "Barbera",
+    hobby: "Pottery",
+    favoriteFood: "Fried Egg",
+    favoriteVideogame: "Genshin Impact",
+    favoriteFilm: "Nightmare Before Christmas",
+    favoriteBook: "Sisifu's Myth",
+    petName: "Dolent",
 },
 {
     name:"Miguel",
@@ -20,5 +32,18 @@ let students = [{
     favoriteVideoGame:"FIFA",
     favoriteFilm:"Señor de los anillos",
     favoriteBook:"Imperio final",
-    petName: "Lupo"
-}]
+    petName: "Lupo",
+},
+{
+    name:"Marilyn",
+    surname:"Duran",
+    age: 28,
+    city:"Cadiz",
+    hobby:"Gimnasio",
+    favoriteFood:"Pasta",
+    favoriteVideoGame:"N/A",
+    favoriteFilm:"Outlander",
+    favoriteBook:"Ikigai",
+    petName: "N/A",
+}
+];
