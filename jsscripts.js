@@ -1,7 +1,7 @@
 let estudiantes = [{
     name: "Pablo",
     surname: "Diaz",
-    age: "22",
+    age: 22,
     city: "Villamayor",
     hobby: "Ski",
     favoriteFood: "SmashBurger",
@@ -41,10 +41,10 @@ let estudiantes = [{
     city:"Cadiz",
     hobby:"Gimnasio",
     favoriteFood:"Pasta",
-    favoriteVideoGame:"N/A",
+    favoriteVideoGame:"",
     favoriteFilm:"Outlander",
     favoriteBook:"Ikigai",
-    petName: "N/A",
+    petName: "",
 }];
 // Mostramos el array por pantalla
 // funcion para ordenar alfabeticamente por apellidos los objetos del array.
@@ -117,7 +117,7 @@ function Repetidos (array){
 function mascotas (array){
     let nombre = []
     for (i = 0; i < array.length; i++){
-        if (array[i].petName != "N/A") {
+        if (array[i].petName) {
             nombre.push(array[i].name)
         }
     }
